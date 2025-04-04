@@ -57,5 +57,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Your Name]
-
+## Author
+Developed with ❤️ by KISHAN SHARMA
+linkedin : https://www.linkedin.com/in/kishanshr/
