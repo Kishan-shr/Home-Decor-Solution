@@ -60,6 +60,7 @@ nav ul li a::after {
   }
 .menu-icon{
     display: none;
+    cursor:pointer
 }
 .close-icon{
     display: none;
