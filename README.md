@@ -22,7 +22,7 @@ Home Decor Solution-Homepage/
 
 ## 📸 Screenshots
 ### Desktop View
-![Desktop View](./images/desktop-view.png)
+![Desktop View](Home Decor Solution Desktop Screen.mp4)
 
 ### Tablet View
 ![Tablet View](./images/tablet-view.png)
