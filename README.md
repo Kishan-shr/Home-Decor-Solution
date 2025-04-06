@@ -24,7 +24,7 @@ Home Decor Solution-Homepage/
 ### Desktop View
 ## 🚀 Demo
 
-![App Demo](media/desktopscreen.gif)
+![App Demo](media/mobile screen.gif)
 
 
 
