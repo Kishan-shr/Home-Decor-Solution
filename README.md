@@ -2,6 +2,9 @@
 
 An elegant and responsive homepage for a fictional furniture company called **Home Decor Solution**. This project is built with HTML, CSS, and JavaScript, focusing on beautiful UI design and smooth transitions.
 
+## 📸 Screenshots
+![App Demo](design/desktop-design-slide-1.jpg)
+
 ## 🔥 Features
 - Fully responsive design for desktop, tablet, and mobile screens.
 - Attractive sliding image gallery with smooth transitions.
@@ -20,7 +23,7 @@ Home Decor Solution-Homepage/
 ├── README.md         # This file
 ```
 
-## 📸 Screenshots
+
 ### Desktop View
 ## 🚀 Demo
 
