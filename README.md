@@ -24,13 +24,13 @@ Home Decor Solution-Homepage/
 ### Desktop View
 ## 🚀 Demo
 
-![App Demo](media/mobile screen.gif)
+![App Demo](desktop%20screen.gif)
 
 
 
 
 ### Mobile View
-![Mobile View](mobilescreen.gif)
+![Mobile View](mobile%20screen.gif)
 
 ## 🚀 Technologies Used
 
