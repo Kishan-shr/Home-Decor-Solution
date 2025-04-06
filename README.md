@@ -22,13 +22,12 @@ Home Decor Solution-Homepage/
 
 ## 📸 Screenshots
 ### Desktop View
-![Desktop View](Home Decor Solution Desktop Screen.mp4)
+![Desktop View](desktop screen.gif)
 
-### Tablet View
-![Tablet View](./images/tablet-view.png)
+
 
 ### Mobile View
-![Mobile View](./images/mobile-view.png)
+![Mobile View](mobile screen.gif)
 
 ## 🚀 Technologies Used
 
