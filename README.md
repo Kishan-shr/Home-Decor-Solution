@@ -1,4 +1,4 @@
-# Home Decor Solution
+# Home Decor Solution 🚀
 
 An elegant and responsive homepage for a fictional furniture company called **Home Decor Solution**. This project is built with HTML, CSS, and JavaScript, focusing on beautiful UI design and smooth transitions.
 
