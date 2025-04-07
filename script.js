@@ -38,13 +38,13 @@ navUl.style.position = 'fixed';
 navUl.style.background = 'transparent';
 })
     btnLeft.addEventListener('click', () => {
-        console.log("left");
+     
         prevSlide();
         prevSlideDes();
     });
 
     btnRight.addEventListener('click', () => {
-        console.log("right");
+       
         nextSlide();
         nextSlideDes();
     });
